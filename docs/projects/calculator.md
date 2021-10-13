@@ -19,7 +19,9 @@ A calculator app mimicked iphone's calculator in Vanilla Javascript
 
 </br>
 
-## REQUIREMENTS
+## 요구사항
+
+# 필수
 
 - 사칙연산: `+ - * /`
 - 부호 토글: `+/-`
@@ -30,7 +32,7 @@ A calculator app mimicked iphone's calculator in Vanilla Javascript
 
 </br>
 
-## BONUS
+# 선택
 
 - 퍼센트: `%`
 - 반복 계산: `=` 를 연속으로 누르면 이전 연산 반복
@@ -39,7 +41,7 @@ A calculator app mimicked iphone's calculator in Vanilla Javascript
 
 </br>
 
-## LESSON LEARNED
+## 배운 점
 
 - `Number`와 `String` 함수로 숫자와 문자열 변환하기
 - 이벤트 객체를 매개변수로 받아서 `target`속성 활용하기
@@ -55,20 +57,20 @@ A calculator app mimicked iphone's calculator in Vanilla Javascript
 
 </br>
 
-## REPOSITORIES
+## 저장소
 
-- SEONGHEE JIN: https://github.com/MichelleJin12/vanila_js_counter/
-- HEEHYEON KIM: https://github.com/hhkim0729/vanilla-calculator/
-- SOYEON KIM: https://github.com/S0YKIM/VANILLA_CALCULATOR/
-- SARANG CHOI: https://github.com/srngch/vanilla-js-calculator
-- YUNJUNG JUNG: https://github.com/dopamingo/js-calculator/
+- [@MichelleJin12](https://github.com/MichelleJin12): https://github.com/MichelleJin12/vanila_js_counter/
+- [@hhkim0729](https://github.com/hhkim0729): https://github.com/hhkim0729/vanilla-calculator/
+- [@S0YKIM](https://github.com/S0YKIM): https://github.com/S0YKIM/VANILLA_CALCULATOR/
+- [@srngch](https://github.com/srngch): https://github.com/srngch/vanilla-js-calculator
+- [@dopamingo](@dopamingo): https://github.com/dopamingo/js-calculator/
 
 </br>
 
-## PUBLICATION
+## 배포 페이지
 
-- SEONGHEE JIN: https://michellejin12.github.io/vanila_js_counter/calculator/index.html
-- HEEHYEON KIM: https://hhkim0729.github.io/vanilla-calculator/
-- SOYEON KIM: https://s0ykim.github.io/VANILLA_CALCULATOR/
-- SARANG CHOI: https://srngch.github.io/vanilla-js-calculator/
-- YUNJUNG JUNG: https://dopamingo.github.io/js-calculator/
+- [@MichelleJin12](https://github.com/MichelleJin12): https://michellejin12.github.io/vanila_js_counter/calculator/index.html
+- [@hhkim0729](https://github.com/hhkim0729): https://hhkim0729.github.io/vanilla-calculator/
+- [@S0YKIM](https://github.com/S0YKIM): https://s0ykim.github.io/VANILLA_CALCULATOR/
+- [@srngch](https://github.com/srngch): https://srngch.github.io/vanilla-js-calculator/
+- [@dopamingo](@dopamingo): https://dopamingo.github.io/js-calculator/
