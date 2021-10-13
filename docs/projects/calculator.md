@@ -48,8 +48,12 @@ A calculator app mimicked iphone's calculator in Vanilla Javascript
 - 지나친 `if`문 사용을 자제하고 인덴트를 줄이는 방향으로 리팩토링
 - `FLEX`뿐만 아니라 `GRID`를 활용하여 간격 맞추기
 
+</br>
+
 ### 개인별 기록
 - srngch: [Calculator - 프로젝트 기록(1)](https://srngch.github.io/note-calc/)
+
+</br>
 
 ## REPOSITORIES
 
@@ -58,6 +62,8 @@ A calculator app mimicked iphone's calculator in Vanilla Javascript
 - SOYEON KIM: https://github.com/S0YKIM/VANILLA_CALCULATOR/
 - SARANG CHOI: https://github.com/srngch/vanilla-js-calculator
 - YUNJUNG JUNG: https://github.com/dopamingo/js-calculator/
+
+</br>
 
 ## PUBLICATION
 
