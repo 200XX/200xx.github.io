@@ -17,7 +17,6 @@ tags:
 
 바닐라 자바스크립트로 아이폰 계산기 클론 코딩하기 
 
-</br>
 
 ## 요구사항
 
@@ -30,7 +29,6 @@ tags:
 - 연산자를 클릭할 때마다 결과 업데이트
 - C(CE) 기능: 마지막 연산의 숫자를 지우기 (`3+1` → `3+`)
 
-</br>
 
 ### 선택
 
@@ -39,7 +37,6 @@ tags:
 - 버튼 클릭 시 색이 변하는 기능
 - 그 외 부가 기능
 
-</br>
 
 ## 배운 점
 
@@ -50,12 +47,10 @@ tags:
 - 지나친 `if`문 사용을 자제하고 인덴트를 줄이는 방향으로 리팩토링
 - `FLEX`뿐만 아니라 `GRID`를 활용하여 간격 맞추기
 
-</br>
 
 ### 개인별 기록
 - [@srngch](https://github.com/srngch): [Calculator - 프로젝트 기록(1)](https://srngch.github.io/note-calc/)
 
-</br>
 
 ## 저장소
 
@@ -65,7 +60,6 @@ tags:
 - [@srngch](https://github.com/srngch): [srngch/vanilla-js-calculator](https://github.com/srngch/vanilla-js-calculator)
 - [@dopamingo](@dopamingo): [dopamingo/js-calculator](https://github.com/dopamingo/js-calculator/)
 
-</br>
 
 ## 배포 페이지
 
