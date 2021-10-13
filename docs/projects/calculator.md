@@ -61,18 +61,18 @@ tags:
 
 ## 저장소
 
-- [@MichelleJin12](https://github.com/MichelleJin12): [MichelleJin12/vanila_js_counter]https://github.com/MichelleJin12/vanila_js_counter/
-- [@hhkim0729](https://github.com/hhkim0729): [hhkim0729/vanilla-calculator]https://github.com/hhkim0729/vanilla-calculator/
-- [@S0YKIM](https://github.com/S0YKIM): [S0YKIM/VANILLA_CALCULATOR]https://github.com/S0YKIM/VANILLA_CALCULATOR/
-- [@srngch](https://github.com/srngch): [srngch/vanilla-js-calculator]https://github.com/srngch/vanilla-js-calculator
-- [@dopamingo](@dopamingo): [dopamingo/js-calculator]https://github.com/dopamingo/js-calculator/
+- [@MichelleJin12](https://github.com/MichelleJin12): [MichelleJin12/vanila_js_counter](https://github.com/MichelleJin12/vanila_js_counter/)
+- [@hhkim0729](https://github.com/hhkim0729): [hhkim0729/vanilla-calculator](https://github.com/hhkim0729/vanilla-calculator/)
+- [@S0YKIM](https://github.com/S0YKIM): [S0YKIM/VANILLA_CALCULATOR](https://github.com/S0YKIM/VANILLA_CALCULATOR/)
+- [@srngch](https://github.com/srngch): [srngch/vanilla-js-calculator](https://github.com/srngch/vanilla-js-calculator)
+- [@dopamingo](@dopamingo): [dopamingo/js-calculator](https://github.com/dopamingo/js-calculator/)
 
 </br>
 
 ## 배포 페이지
 
-- [@MichelleJin12](https://github.com/MichelleJin12): [🔗링크]https://michellejin12.github.io/vanila_js_counter/calculator/index.html
-- [@hhkim0729](https://github.com/hhkim0729): [🔗링크]https://hhkim0729.github.io/vanilla-calculator/
-- [@S0YKIM](https://github.com/S0YKIM): [🔗링크]https://s0ykim.github.io/VANILLA_CALCULATOR/
-- [@srngch](https://github.com/srngch): [🔗링크]https://srngch.github.io/vanilla-js-calculator/
-- [@dopamingo](@dopamingo): [🔗링크]https://dopamingo.github.io/js-calculator/
+- [@MichelleJin12](https://github.com/MichelleJin12): [🔗링크](https://michellejin12.github.io/vanila_js_counter/calculator/index.html)
+- [@hhkim0729](https://github.com/hhkim0729): [🔗링크](https://hhkim0729.github.io/vanilla-calculator/)
+- [@S0YKIM](https://github.com/S0YKIM): [🔗링크](https://s0ykim.github.io/VANILLA_CALCULATOR/)
+- [@srngch](https://github.com/srngch): [🔗링크](https://srngch.github.io/vanilla-js-calculator/)
+- [@dopamingo](@dopamingo): [🔗링크](https://dopamingo.github.io/js-calculator/)
