@@ -46,3 +46,19 @@ A calculator app mimicked iphone's calculator in Vanilla Javascript
 - [x] `active`로 버튼 클릭 시에 색이 변하도록 하는 `CSS` 기능
 - [x] 지나친 `if`문 사용을 자제하고 인덴트를 줄이는 방향으로 리팩토링
 - [x] `FLEX`뿐만 아니라 `GRID`를 활용하여 간격 맞추기
+
+## REPOSITORIES
+
+- [x] SEONGHEE JIN: https://github.com/MichelleJin12/vanila_js_counter/
+- [x] HEEHYEON KIM: https://github.com/hhkim0729/vanilla-calculator/
+- [x] SOYEON KIM: https://github.com/S0YKIM/VANILLA_CALCULATOR/
+- [x] SARANG CHOI: https://github.com/srngch/vanilla-js-calculator
+- [x] YUNJUNG JUNG: https://github.com/srngch/vanilla-js-calculator
+
+## PUBLICATION
+
+- [x] SEONGHEE JIN: https://michellejin12.github.io/vanila_js_counter/calculator/index.html
+- [x] HEEHYEON KIM: https://hhkim0729.github.io/vanilla-calculator/
+- [x] SOYEON KIM: https://s0ykim.github.io/VANILLA_CALCULATOR/
+- [x] SARANG CHOI: https://srngch.github.io/vanilla-js-calculator/
+- [x] YUNJUNG JUNG: https://dopamingo.github.io/js-calculator/
