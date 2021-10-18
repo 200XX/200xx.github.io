@@ -7,3 +7,42 @@ sitemap: false
 ---
 
 # Member
+
+*Sort by given name*
+
+## Heehyun Kim
+@hhkim0729
+- [![Github][GithubBadge]](https://github.com/hhkim0729)
+- [![Blog][BlogBadge]](https://velog.io/@chez_bono)
+- [![Mail][MailBadge]](hhkim0729@gmail.com)
+
+## Sarang Choi
+@srngch
+- [![Github][GithubBadge]](https://github.com/srngch)
+- [![Blog][BlogBadge]](https://github.com/srngch)
+- [![Mail][MailBadge]](srngch.dev@gmail.com)
+
+## Soyeon Kim
+@S0YKIM
+- [![Github][GithubBadge]](https://github.com/S0YKIM)
+- [![Website][BlogBadge]](https://love-every-moment.tistory.com)
+- [![Mail][MailBadge]](soyeonkim.9683@gmail.com)
+
+## Seonghee Jin
+@MichelleJin12
+- [![Github][GithubBadge]](https://github.com/MichelleJin12)
+- [![Website][BlogBadge]]()
+- [![Mail][MailBadge]]()
+
+## Yunjung Jung
+@dopamingo
+- [![Github][GithubBadge]](https://github.com/dopamingo)
+- [![Mail][MailBadge]](overayy@gmail.com)
+
+[GithubBadge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+
+[WebsiteBadge]: https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMy42IDEwLjMgMTMuMiAyLjRjLS43LS41LTEuNy0uNS0yLjUgMEwuNCAxMC4zYy0uOC42LS40IDEuNy42IDEuN2gxdjYuMUMyIDIwLjIgMy44IDIyIDYgMjJoMmMuNiAwIDEtLjQgMS0xdi00LjljMC0xLjEuOS0yLjEgMi0yLjFoMmMxLjEgMCAyIDEgMiAyLjFWMjFjMCAuNS40IDEgMSAxaDJjMi4yIDAgNC0xLjggNC0zLjlWMTJoMWMuOSAwIDEuMy0xLjEuNi0xLjd6IiBmaWxsPSIjZmZmZmZmIiBjbGFzcz0iZmlsbC0wMDAwMDAiPjwvcGF0aD48L3N2Zz4=
+
+[MailBadge]: https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMCAzSDRDMS44IDMgMCA0LjggMCA3djEwYzAgMi4yIDEuOCA0IDQgNGgxNmMyLjIgMCA0LTEuOCA0LTRWN2MwLTIuMi0xLjgtNC00LTR6bTEuNiA1LjgtNy45IDUuM2MtLjUuMy0xLjEuNS0xLjcuNXMtMS4yLS4yLTEuNy0uNUwyLjQgOC44Yy0uNC0uMy0uNS0uOS0uMi0xLjQuMy0uNC45LS41IDEuNC0uMmw3LjkgNS4zYy4zLjIuOC4yIDEuMSAwbDcuOS01LjNjLjUtLjMgMS4xLS4yIDEuNC4zLjIuNC4xIDEtLjMgMS4zeiIgZmlsbD0iI2ZmZmZmZiIgY2xhc3M9ImZpbGwtMDAwMDAwIj48L3BhdGg+PC9zdmc+
+
+[BlogBadge]: https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDUwMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMzI0LjY5MSAxNDFoLTE0OS41NEMxNTcuNzE2IDE0MSAxNDQgMTU1LjEzNSAxNDQgMTczLjEzOHYxNTQuNDE2QzE0NCAzNDUuNTU3IDE1Ny43MTYgMzYwIDE3NS4xNTEgMzYwaDE0OS41NEMzNDIuMTI2IDM2MCAzNTYgMzQ1LjU1NyAzNTYgMzI3LjU1NFYxNzMuMTM4QzM1NiAxNTUuMTM1IDM0Mi4xMjYgMTQxIDMyNC42OTEgMTQxek0zMzggMzI3LjU1NGMwIDcuNDEzLTYuMTMgMTMuNDQ2LTEzLjMwOSAxMy40NDZoLTE0OS41NGMtNy4xNzkgMC0xMy4xNTEtNi4wMzMtMTMuMTUxLTEzLjQ0NlYxNzMuMTM4YzAtNy40MTMgNS45NzItMTMuMTM4IDEzLjE1MS0xMy4xMzhoMTQ5LjU0YzcuMTc5IDAgMTMuMzA5IDUuNzI1IDEzLjMwOSAxMy4xMzh2MTU0LjQxNnoiIGZpbGw9IiNmZmZmZmYiIGNsYXNzPSJmaWxsLTAwMDAwMCI+PC9wYXRoPjxwYXRoIGQ9Ik0zMDIuODgzIDIxOUgyMzMuNDRjLTUuMTM2IDAtOS4zIDMuNjk2LTkuMyA5czQuMTYzIDkgOS4zIDloNjkuNDQzYzUuMTM2IDAgOS4zLTMuNjk2IDkuMy05cy00LjE2NC05LTkuMy05eiIgZmlsbD0iI2ZmZmZmZiIgY2xhc3M9ImZpbGwtMDAwMDAwIj48L3BhdGg+PGVsbGlwc2UgY3g9IjE5OC44OTIiIGN5PSIyMjguMDM2IiByeD0iOS4zIiByeT0iOS42MDMiIGZpbGw9IiNmZmZmZmYiIGNsYXNzPSJmaWxsLTAwMDAwMCI+PC9lbGxpcHNlPjxwYXRoIGQ9Ik0zMDIuODgzIDI1NkgyMzMuNDRjLTUuMTM2IDAtOS4zIDQuMTk3LTkuMyA5LjVzNC4xNjMgOS41IDkuMyA5LjVoNjkuNDQzYzUuMTM2IDAgOS4zLTQuMTk3IDkuMy05LjVzLTQuMTY0LTkuNS05LjMtOS41eiIgZmlsbD0iI2ZmZmZmZiIgY2xhc3M9ImZpbGwtMDAwMDAwIj48L3BhdGg+PGVsbGlwc2UgY3g9IjE5OC44OTIiIGN5PSIyNjUuODA3IiByeD0iOS4zIiByeT0iOS42MDMiIGZpbGw9IiNmZmZmZmYiIGNsYXNzPSJmaWxsLTAwMDAwMCI+PC9lbGxpcHNlPjxwYXRoIGQ9Ik0zMDIuODgzIDI5NEgyMzMuNDRjLTUuMTM2IDAtOS4zIDQuMTk3LTkuMyA5LjVzNC4xNjMgOS41IDkuMyA5LjVoNjkuNDQzYzUuMTM2IDAgOS4zLTQuMTk3IDkuMy05LjVzLTQuMTY0LTkuNS05LjMtOS41eiIgZmlsbD0iI2ZmZmZmZiIgY2xhc3M9ImZpbGwtMDAwMDAwIj48L3BhdGg+PGVsbGlwc2UgY3g9IjE5OC44OTIiIGN5PSIzMDMuNTc5IiByeD0iOS4zIiByeT0iOS42MDMiIGZpbGw9IiNmZmZmZmYiIGNsYXNzPSJmaWxsLTAwMDAwMCI+PC9lbGxpcHNlPjxwYXRoIGQ9Ik0zMDIuODgzIDE4MUgxOTQuOGMtNS4xMzYgMC05LjMgNC4xOTYtOS4zIDkuNXM0LjE2MyA5LjUgOS4zIDkuNWgxMDguMDg0YzUuMTM2IDAgOS4zLTQuMTk2IDkuMy05LjUtLjAwMS01LjMwNC00LjE2NS05LjUtOS4zMDEtOS41eiIgZmlsbD0iI2ZmZmZmZiIgY2xhc3M9ImZpbGwtMDAwMDAwIj48L3BhdGg+PC9zdmc+
